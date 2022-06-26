@@ -12,3 +12,4 @@ While y == 'y':
       list_count[j] += 1
   print(*list_string)
   print(*list_count) "update to print in one row(a: 1, b: 2)"
+  y = input("restart?(y/n): ", )
