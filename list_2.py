@@ -1,16 +1,16 @@
 y = 'y'
 while y == 'y':
   input_data_alist = input("Enter A-list of numbers, using comma: ")
-  Input_data_blist = input("Enter B-list of numbers, using comma: ")
+  input_data_blist = input("Enter B-list of numbers, using comma: ")
   splited_input_data_a = input_data_alist.split(',')
-  Splited_input_data_b = input_data_blist.split(',')
-  
-  int_input_data = map(int, splited_input_data)
-  alist = list(int_input_data)
-  a = [2, 4, 5, 1, 6, 3, 12, 56, 34, 78, 65, 99, 121, 13]
-  b = [1, 2, 5, 44, 33, 22, 12, 34, 55, 64, 121, 144, 35]
-c = []
-for i in a:
-  if b.count(i) != 0:
-    c.append(i)
-print(*c)
+  splited_input_data_b = input_data_blist.split(',')
+  int_input_data_a = map(int, splited_input_data_a)
+  int_input_data_b = map(int, splited_input_data_b)
+  alist = list(int_input_data_a)
+  blist = list(int_input_data_b
+  clist  = []
+  for i in alist:
+    if blist.count(i) != 0:
+      clist.append(i)
+  print(*clist)
+  y = input("restart?(y/n): ")
