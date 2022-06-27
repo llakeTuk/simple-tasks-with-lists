@@ -7,7 +7,7 @@ while y == 'y':
   int_input_data_a = map(int, splited_input_data_a)
   int_input_data_b = map(int, splited_input_data_b)
   alist = list(int_input_data_a)
-  blist = list(int_input_data_b
+  blist = list(int_input_data_b)
   clist = []
   for i in alist:
     if blist.count(i) != 0:
