@@ -1,6 +1,9 @@
 y = 'y'
 While y == 'y':
-  alist = [1, 2, 3, 12, 8, 4, 32, 53, 31, 87, 65]
+  input_data = input("Enter list of numbers, using comma: ")
+  splited_input_data = input_data.split(',')
+  int_input_data = map(int, splited_input_data)
+  alist = list(int_input_data)
   blist = []
   n = int(input("enter number: "))
   for i in alist:
