@@ -6,4 +6,3 @@ while y == 'y':
   float_input_list = list(map(float, input_list))
   print(useless_list(float_input_list))
   y = input('restart?(y/n): ')
-  
