@@ -1,5 +1,5 @@
 # simple-tasks-with-lists
-This repository contains simple tasks
+This repository contains tasks
 For start learning list type
 This repository contains:
 list_1 - create list A from input numbers and list B with numbers that less then N
