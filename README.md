@@ -8,5 +8,5 @@ list_3 - counts number of each character in string
 list_4 - reverse entered list of numbers
 list_5 - change places of first and last elements
 list_6 - returns division of max number on length of list
-list_7 -
+list_7 - sorts list of numbers in ascending order
 list_8 -
