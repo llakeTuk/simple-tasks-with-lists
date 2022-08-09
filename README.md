@@ -9,4 +9,4 @@ list_4 - reverse entered list of numbers
 list_5 - change places of first and last elements
 list_6 - returns division of max number on length of list
 list_7 - sorts list of numbers in ascending order
-list_8 -
+list_8 - list of string element. Find longest element and adjust other elements with '_'
