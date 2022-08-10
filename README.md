@@ -1,6 +1,6 @@
 # simple-tasks-with-lists
 This repository contains tasks
-For start learning list type
+forstart learning list type
 This repository contains:
 list_1 - create list A from input numbers and list B with numbers that less then N
 list_2 - create list C with numbers that appear in both lists A, B
