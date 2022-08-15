@@ -5,6 +5,7 @@ def molecula_count(atom_list, molecula_list):
 
 def formula_analysis(formula):
 
+atom_count = [0, 0, 0]
 y = 'y'
 while y == 'y':
   input_atoms = input('enter number of atoms C, O, H, using comma: ').split(',')
