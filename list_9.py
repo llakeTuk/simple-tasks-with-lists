@@ -4,7 +4,7 @@ def molecula_count(atom_list, molecula_list):
   return print('number of possible molecules: ', min(atom_list))
 
 def formula_analysis(formula):
-  for i in range(l
+  for i in range(len(formula)):
 
 y = 'y'
 while y == 'y':
